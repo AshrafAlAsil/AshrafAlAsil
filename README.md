@@ -13,3 +13,4 @@
 
 ### 📬 Connect with me
 - [WatsApp](01001390299)
+- [LinkedIn](https://www.linkedin.com/in/ashraf-al-asil-29450a292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
