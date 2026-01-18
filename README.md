@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm [Ashraf Mohamed El Said] 👋
 
-<!--
-**AshrafAlAsil/AshrafAlAsil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+- ⚡ I'm a Computer Science Student at **Delta University**.
+- 🚀 I'm currently learning **Python** and building professional environments with **PyCharm**.
+- 🛡️ I'm deeply interested and currently learning **Cybersecurity**.
+- 🎯 My goal is to become a Professional Software Engineer.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** Python (Learning), C#, Java (Basics), SQL.
+- **Databases:** MySQL.
+- **Tools:** PyCharm, VS Code, Git, GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Connect with me
+- [WatsApp](01001390299)
